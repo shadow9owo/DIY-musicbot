@@ -9,6 +9,10 @@ how to setup this epic diy discordpy music bot (guide real)
 
 and youre finished now to just run the bot.py and you should be good to go
 
+requirements:
+ python 3.8.x
+
+and install the packages using:
 ```
 pip install -r requirements.txt
 ```
