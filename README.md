@@ -1,5 +1,7 @@
 # DIY-musicbot
 
+(the download is in realeses)
+
 1. Put your token into `token.txt`<br />
 2. Put your credits into `credits.txt`<br />
 3. Put your help (list of commands, etc.) into `help.txt`<br />
