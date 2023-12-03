@@ -213,7 +213,3 @@ async def on_voice_state_update(member, before, after):
                 voice_client.stop()
                 await voice_client.disconnect()
                 del voice_clients[before.guild.id]
-
-
-
-bot.run("MTEyOTI5NTQ1NTM4MjE1MTIxOA.GVlrqv.PKgcnecXqW59TASLC8hNczT75eGl8-1-IIiR7Y")
