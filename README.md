@@ -8,3 +8,7 @@ how to setup this epic diy discordpy music bot (guide real)
 4.put your role id of the role thats gonna have access to using the bot into the accessrole.txt
 
 and youre finished now to just run the bot.py and you should be good to go
+
+```
+pip install -r requirements.txt
+```
