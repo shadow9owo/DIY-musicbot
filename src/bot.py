@@ -44,7 +44,7 @@ async def credits(interaction: discord.Interaction):
     await interaction.response.send_message(f"```{credits_contents}```")
 
 def hasperms(ctx):
-    if any(role.id == rap for role in ctx.author.roles):
+    if any(role.id == int(rap) for role in ctx.author.roles):
         return True
     else:
         return False
