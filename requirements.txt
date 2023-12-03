@@ -1,2 +1,0 @@
-discordpy
-yt_dlp
