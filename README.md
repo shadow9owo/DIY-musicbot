@@ -1,5 +1,7 @@
 # DIY-musicbot
 
+not stable yet
+
 (the download is in realeses)
 
 1. Put your token into `token.txt`<br />
