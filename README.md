@@ -4,6 +4,8 @@
 
 (the download is in realeses)
 
+note: dont forget to change the guild id in the bot.py file to your servers server id
+
 1. Put your token into `token.txt`<br />
 2. Put your credits into `credits.txt`<br />
 3. Put your help (list of commands, etc.) into `help.txt`<br />
