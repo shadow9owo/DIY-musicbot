@@ -1,6 +1,6 @@
 # DIY-musicbot
 
-!!!not stable yet!!!
+!!!stable!!!
 
 (the download is in realeses)
 
